@@ -7,3 +7,8 @@ As a part of Quantium's retail analytics team and have been approached by the cl
 All the given information is from the **Quantium Data Analytics Virtual Experience Project** on [Forage](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program?ref=H9ARjfcciFq8iXfBx).
 
 ## Data Preparation and Customer Analytics
+
+
+## Experimentation and Uplift Testing
+Our client wants to know whether or not the trial layout should be rolled out to all their stores.
+
