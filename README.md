@@ -7,7 +7,11 @@ As a part of Quantium's retail analytics team and have been approached by the cl
 All the given information is from the **Quantium Data Analytics Virtual Experience Project** on [Forage](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program?ref=H9ARjfcciFq8iXfBx).
 
 ## Data Preparation and Customer Analytics
+Conduct analysis on client's transaction dataet and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
+### Analyze the Transaction Data
+
+### Analyze the Customer Data
 
 ## Experimentation and Uplift Testing
 Our client has asked us to evaluate the performance of a store trial which was performed in stores 77, 86 and 88.
