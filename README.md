@@ -10,6 +10,23 @@ All the given information is from the **Quantium Data Analytics Virtual Experien
 Conduct analysis on client's transaction dataet and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
 ### Analyze the Transaction Data
+#### Sales
+According to the transaction data set, we found that the volatility of the transaction of chips does not fluctuate much throughout the year, however, there was large volatility in December.
+
+![total sales](https://user-images.githubusercontent.com/82549782/145315710-398a1be4-8c3a-4653-9fb4-10740e0dcf6c.png)
+
+After we took a closer look at the sales in December, we found that there was an increase in sales before Christmas and no sales on Christmas Day. This makes sense, because Christmas is a family gathering, and chips are a very suitable snack for family gatherings, so people will prepare a lot of chips before Christmas. On Christmas Day, many stores are closed, which is why there were no sales on Christmas Day.
+
+![total sales in december](https://user-images.githubusercontent.com/82549782/145333865-61e8308b-4212-4906-a3b4-5e26eeb7555b.png)
+
+#### Brands and Pack Size
+The most popular Brands were Kettle, Smiths, Pringles, and Doritos.
+![count brand name](https://user-images.githubusercontent.com/82549782/145334094-b7d4c438-c06b-4582-af27-286eed30bbd2.png)
+
+The most popular pack size were 175g.
+![count pack size](https://user-images.githubusercontent.com/82549782/145334070-384bb0d4-a252-42af-825f-cb90328df10c.png)
+
+Based on the graphs above, we recommend our clients purchase more chips from these popular brands with a size of 175g or 150g to make sure stores have an excessive inventory in comparison to the sales level.
 
 ### Analyze the Customer Data
 
