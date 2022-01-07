@@ -21,14 +21,22 @@ After we took a closer look at the sales in December, we found that there was an
 
 #### Brands and Pack Size
 The most popular Brands were Kettle, Smiths, Pringles, and Doritos.
+
 ![count brand name](https://user-images.githubusercontent.com/82549782/145334094-b7d4c438-c06b-4582-af27-286eed30bbd2.png)
 
 The most popular pack size were 175g.
+
 ![count pack size](https://user-images.githubusercontent.com/82549782/145334070-384bb0d4-a252-42af-825f-cb90328df10c.png)
 
 Based on the graphs above, we recommend our clients purchase more chips from these popular brands with a size of 175g or 150g to make sure stores have an excessive inventory in comparison to the sales level.
 
 ### Analyze the Customer Data
+![image](https://user-images.githubusercontent.com/82549782/148315783-2c5b52c6-f1d5-401b-85c9-4368c8b07d91.png)
+
+From the plot above, we can see the sales are mostly from the budget older families, mainstream young single/couples and mainstream retirees.
+
+![image](https://user-images.githubusercontent.com/82549782/148315813-d11aa862-43cd-4cdf-b358-420f24299475.png)
+
 
 ## Experimentation and Uplift Testing
 Our client has asked us to evaluate the performance of a store trial which was performed in stores 77, 86 and 88.
